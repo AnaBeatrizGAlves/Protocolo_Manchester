@@ -37,7 +37,9 @@ O código foi dividido em duas partes principais dentro do mesmo arquivo:
    python --version
 
 2.Salve este arquivo como triagem.py.
+
 3.Execute no terminal:  python triagem.py
+
 4.A janela do sistema vai abrir e você já pode cadastrar pacientes.
 
 # Tecnologias usadas
@@ -47,3 +49,4 @@ O código foi dividido em duas partes principais dentro do mesmo arquivo:
 
 Aluno: Ana Beatriz Gonçalves Alves
 Disciplina: Estrutura de Dados
+
